@@ -1,17 +1,13 @@
 {
 	"appclips": {
-		"apps": ["AJSV2L9F8Q.com.bottlerocketstudios.roberthalf.ApplyClip", "BXM5BBCFA3.com.roberthalf.direct.ApplyClip"]
+		"apps": ["9W2C69WDZE.com.mcginty.will.Links.Clip"]
 	},
 	"applinks": {
-		"apps": [],
 		"details": [{
-				"appID": "AJSV2L9F8Q.com.bottlerocketstudios.roberthalf",
-				"paths": ["/job/*"]
-			},
-			{
-				"appID": "BXM5BBCFA3.com.roberthalf.direct",
-				"paths": ["/job/*"]
-			}
-		]
+			"appIDs": ["9W2C69WDZE.com.mcginty.will.Links"],
+			"components": [{
+				"/": "/link"
+			}]
+		}]
 	}
 }

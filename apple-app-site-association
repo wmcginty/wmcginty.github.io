@@ -6,10 +6,7 @@
 		"details": [{
 			"appIDs": ["9W2C69WDZE.com.mcginty.will.Links"],
 			"components": [{
-				"/": "/link",
-				"?": {
-					"domain": "?*"
-				}
+				"/": "/link"
 			}]
 		}]
 	}
