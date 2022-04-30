@@ -20,10 +20,5 @@
 <meta name="apple-itunes-app" content="app-id=1522236657, app-argument={{ site.url }}, app-clip-bundle-id=com.mcginty.will.Links.Clip">
 {% endif %}
 
-{% if page.image %}
-<meta property="og:image" content="{{ site.url }}{{ page.image }}"/>
-<meta property="twitter:image" content="{{ site.url }}{{ page.image }}"/>
-{% else %}
-<meta property="og:image" content="{{ site.url }}{{ site.avatar }}"/>
-<meta property="twitter:image" content="{{ site.url }}{{ site.avatar }}"/>
-{% endif %}
+<meta property="og:image" content="{{ site.avatar }}"/>
+<meta property="twitter:image" content="{{ site.avatar }}"/>
