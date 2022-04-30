@@ -16,6 +16,10 @@
 <meta property="twitter:title" content="{{ page.title }}" />
 {% endif %}
 
+{% if page.banner %}
+<meta name="apple-itunes-app" content="app-id=1522236657, app-clip-bundle-id=com.mcginty.will.Links.Clip, app-clip-display=card">
+{% endif %}
+
 {% if page.image %}
 <meta property="og:image" content="{{ site.url }}{{ page.image }}"/>
 <meta property="twitter:image" content="{{ site.url }}{{ page.image }}"/>

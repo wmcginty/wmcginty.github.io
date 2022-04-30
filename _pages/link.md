@@ -2,6 +2,7 @@
 layout: page
 title: Linked List
 permalink: /link/
+banner: yes
 ---
 
 [Linked List](https://apps.apple.com/us/app/linked-list/id1522236657) lets you examine and test both the contents and the features enabled by the Apple App Site Association file for any reachable, public domain. Inspired by my personal needs juggling the management and maintenance of many different production domains, it's singular goal is to help make universal linking more reliable.
