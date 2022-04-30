@@ -2,6 +2,7 @@
 layout: page
 title: Linked List
 permalink: /link/
+image: images/app_clip_preview.png
 banner: yes
 ---
 
