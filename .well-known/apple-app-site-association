@@ -5,14 +5,15 @@
 	"applinks": {
 		"details": [{
 			"appIDs": ["9W2C69WDZE.com.mcginty.will.Links"],
-			"components": [
-			{
-				"/": "/link"
-			},
-			{
-				"/": "/test",
-				"?": "url=?*"
-			}
+			"components": [{
+					"/": "/link"
+				},
+				{
+					"/": "/test",
+					"?": {
+						"url": "?*"
+					}
+				}
 			]
 		}]
 	}
